@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "echo 'No build step needed!'"
+  },
   "dependencies": {
     "@mdi/font": "^7.4.47"
   }
